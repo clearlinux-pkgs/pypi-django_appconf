@@ -7,7 +7,7 @@
 #
 Name     : pypi-django_appconf
 Version  : 1.0.6
-Release  : 66
+Release  : 67
 URL      : https://files.pythonhosted.org/packages/65/e0/704b6453f21fac22f0ab128150e9782b7d38bc1ed09710ac2197ddc1751f/django-appconf-1.0.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/65/e0/704b6453f21fac22f0ab128150e9782b7d38bc1ed09710ac2197ddc1751f/django-appconf-1.0.6.tar.gz
 Summary  : A helper class for handling configuration defaults of packaged apps gracefully.
